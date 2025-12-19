@@ -1,5 +1,6 @@
-strealit
+streamlit
 pandas
 matplotlib
 seaborn
+
 plotly
